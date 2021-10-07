@@ -1,0 +1,83 @@
+body{background-image: image(fondo);
+
+}
+h1{
+	background-color:rgb(13, 2, 105);
+	color : rgb(255, 255, 255);
+	border : 2px black;
+    margin: 1px;
+	padding : 20px
+}
+h2 {
+    background-color: rgb(36, 35, 114);
+    color: white;
+    border: 2px;
+    margin: 1px;
+    padding: 20px;
+    width: 25%;
+}
+p{
+    background-color: none;
+    color: rgb(255, 255, 255);
+    border: 5px black;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 150%;
+    width: 70%;
+    font-size: x-large;
+    text-align: justify;
+}
+ol{
+    background-color: None;
+    color: white;
+    border: white 200px;
+    margin: 1px;
+    padding: 10px;
+    text-align: justify;
+    font-size: x-large;
+    line-height: 150%;
+}
+li{
+    background-color: rgb(18, 12, 94);
+    color: rgb(255, 255, 255);
+    border: black 10px;
+    margin: 10 auto;
+    padding: 10px;
+    line-height: 150%;
+    width: 60%;
+    text-align: center;
+}
+ul{
+    background-color:none;
+    color: white;
+    border: white 200px;
+    margin: 1px;
+    padding: 10px;
+    display: inline-block;
+    text-align: justify;
+    line-height: 150%;
+    font-size: x-large;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+img{
+    padding: 5px
+}
+mark{
+    background-color: black;
+    color: white;
+    width: 60%;
+}
+i{
+    font-size: large;
+}
+h1{
+    font-size: xx-large;
+}
+h3{
+    background-color: rgb(18, 12, 94);
+    color: white;
+    line-height: 100%;
+    font-size: xx-large;
+}
